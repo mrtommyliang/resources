@@ -10,6 +10,9 @@
 - [Gradients](https://webgradients.com/)
 - [Hover Effects](https://tympanus.net/Development/CreativeLinkEffects/#cl-effect-4)
 
+## Databases
+- [MongoDB Cheatsheet](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6)
+
 ## Reading Material
 - [Advice for a Junior Software Developer](http://beza1e1.tuxen.de/advice_for_junior_developer.html)
 - [Average to Googler in Four Weeks: A Study Plan](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/)
@@ -26,3 +29,13 @@
 - [Leetcode Tips and Tricks](https://docs.google.com/document/d/1LCwIaH6B9eFj2HwbP1B1RbxCwvTNB4a_Iu-bqlproz0/edit)
 - [Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs?fbclid=IwAR2nc6BVK4rwJKEPzuO5UjFI2Yj0tNTJO3Ah4lsqDKnOp1rYx5g3tqpiOWE)
 - [Unix/Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
+
+
+## Interview Prep
+- [Interviewing.io](https://interviewing.io/)
+- [Pramp Mock Interview](https://www.pramp.com/#/)
+
+## Extension Recommendations
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+- [Peek](https://marketplace.visualstudio.com/items?itemName=SumitMukhija.peek)
