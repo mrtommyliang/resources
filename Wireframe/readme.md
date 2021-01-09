@@ -5,11 +5,11 @@ Wireframes illustrate how the user interfaces with information. A wireframe answ
 
 Wireframes will look different depending on who creates them, but they should always include details about the functionality.
 
-![Wireframe 1](assets/wireframe1.png)
-![Wireframe 2](assets/wireframe2.png)
-![Projects](assets/projects.png)
-![Testimonials](assets/testimonials.png)
-![Learn More](assets/learnmore.png)
+![Wireframe 1](../assets/wireframe1.png)
+![Wireframe 2](../assets/wireframe2.png)
+![Projects](../assets/projects.png)
+![Testimonials](../assets/testimonials.png)
+![Learn More](../assets/learnmore.png)
 
 ### Wireframes in the Wild
 As a developer, you'll often build pages and sites from wireframes created by User Experience (UX) Designers. Wireframes should detail any and all functionality on the page. If building a website was like building a house, wireframes might be considered the blueprints. They're an important element of communication between the design and engineering teams.
